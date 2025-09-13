@@ -1,0 +1,11 @@
+node_modules
+apps/*/node_modules
+apps/*/.next
+packages/*/node_modules
+.next
+dist
+out
+.DS_Store
+.turbo
+apps/*/.turbo
+pnpm-lock.yaml
